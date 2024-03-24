@@ -8,6 +8,9 @@ The appeal of bike sharing systems extends beyond their practical applications. 
 ---
 
 ## Aim of project :  
-The project aims to predict bike rental counts based on environmental and seasonal factors and validate anomaly detection algorithms using historical data from the Capital Bikeshare system in Washington D.C., contributing to optimized bike-sharing operations and event responsiveness.
+
+- 1. Predicting Bike Rentals: Forecasting bike rental counts hourly or daily using environmental and seasonal factors.
+
+- 2. Event Detection: Identifying anomalies and events using bike rental data correlated with external events, such as natural disasters or significant occurrences in the city.
 
 ## Data set publicly available : http://capitalbikeshare.com/system-data
