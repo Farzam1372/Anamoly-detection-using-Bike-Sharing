@@ -1,4 +1,4 @@
-# Anamoly-detection-using-Bike-Sharing
+# Predicting Bike Rentals and Event Detection for Bike Rentals in DC
 ---
 
 Bike sharing systems represent a modern evolution of traditional bike rentals, where the entire process (from membership to rental and return) has been automated. This innovation allows users to easily rent bikes from one location and conveniently return them at another. With over 500 bike-sharing programs worldwide, encompassing a staggering 500,000 bicycles, these systems have garnered significant attention due to their pivotal role in addressing traffic congestion, environmental concerns, and promoting public health.
