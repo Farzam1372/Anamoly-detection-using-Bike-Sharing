@@ -13,4 +13,6 @@ The appeal of bike sharing systems extends beyond their practical applications. 
 
 - 2. Event Detection: Identifying anomalies and events using bike rental data correlated with external events, such as natural disasters or significant occurrences in the city.
 
-## Data set publicly available : http://capitalbikeshare.com/system-data
+## Data set publicly available : 
+- historical log for 2023 from http://capitalbikeshare.com/system-data
+- We aggregated the data on two hourly and daily basis and then extracted and added the corresponding weather and seasonal information. Weather information are extracted from http://www.freemeteo.com.
